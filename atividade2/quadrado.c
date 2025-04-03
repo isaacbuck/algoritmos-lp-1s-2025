@@ -4,7 +4,7 @@ int main()
 {
     float L, A;
 
-    /
+    
         printf("Digite o comprimento do lado do quadrado (L): ");
     scanf("%f", &L);
 

@@ -13,5 +13,6 @@ int main()
 
     printf("O seu IMC é: %.2f\n", imc);
 
-    return 0;
+
+return 0;
 }
