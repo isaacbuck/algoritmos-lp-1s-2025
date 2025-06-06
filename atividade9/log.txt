@@ -1,0 +1,5 @@
+número mínimo: 1
+número máximo: 6
+número esperado: 3
+número sorteado: 5
+resultado: não sorteado
